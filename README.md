@@ -8,20 +8,29 @@
 
 > Run locally: `python dashboard/app.py` → open `http://localhost:8050`
 
-![Overview](analysis/monthly_revenue.png)
-
+**OVERVIEW**
 
 <img width="1703" height="980" alt="image" src="https://github.com/user-attachments/assets/c9bc89d5-9912-44fd-86f6-f2559c70dff9" />
 
 <img width="1580" height="452" alt="image" src="https://github.com/user-attachments/assets/3b3b84a6-a935-4bc2-abd5-d3d13fe82d83" />
 
+**OPERATIONS**
+
 <img width="1684" height="981" alt="image" src="https://github.com/user-attachments/assets/a6d19240-3e01-496a-a775-173cc02407e3" />
+
+**PRODUCTS**
 
 <img width="1574" height="984" alt="image" src="https://github.com/user-attachments/assets/6d89bfc1-a2c1-4b31-8b58-ff33b2a8cf95" />
 
+**CUSTOMERS**
+
 <img width="1578" height="962" alt="image" src="https://github.com/user-attachments/assets/cc522b68-b3ef-43f8-8402-cae7eff97952" />
 
+**A/B TESTING**
+
 <img width="1675" height="982" alt="image" src="https://github.com/user-attachments/assets/ad4cba94-27c1-4b8d-98e9-3989650fe15d" />
+
+![Overview](analysis/monthly_revenue.png)
 
 
 
