@@ -4,8 +4,15 @@
 
 ---
 ## Live Dashboard
-> **Live URL:** http://18.223.113.54:8050
-> Run locally: `python dashboard/app.py` → open `http://localhost:8050`
+
+> **Live URL:** http://PUBLIC_EC2_IP:8050
+> Containerized with Docker and deployed on AWS EC2
+
+**To run locally:**
+```bash
+docker build -t retail-bi-dashboard .
+docker run -d --name retail-bi --env-file .env -p 8050:8050 retail-bi-dashboard
+```
 
 **OVERVIEW**
 
