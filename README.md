@@ -3,9 +3,8 @@
 > An end-to-end data engineering and analytics platform built on real e-commerce data — featuring an automated ETL pipeline, AWS cloud infrastructure, statistical A/B testing, anomaly detection, and a live executive dashboard.
 
 ---
-
 ## Live Dashboard
-
+> **Live URL:** http://18.223.113.54:8050
 > Run locally: `python dashboard/app.py` → open `http://localhost:8050`
 
 **OVERVIEW**
